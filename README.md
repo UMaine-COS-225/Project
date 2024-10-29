@@ -5,7 +5,7 @@ In the second half of the course, you will use the principles of object-oriented
 Apart from the NLP system, each project should have - 
 
 1. Backend - A database that implements CRUD (Create, Read, Update, and Delete) operations relevant to the specific project.
-2. Frontend - A UI that allows users to interact with the application. 
+2. Frontend - A UI that allows users to interact with the application. It can also be a terminal/text based interface.
 
 We will look at specific technologies to implement the frontend and backend.
 
@@ -49,7 +49,7 @@ Following are the deliverables
 
 ### Project Proposal (5% of the overall course grade)
 
-Send a 1-page proposal describing the NLP problem and domain you want to implement for the project. In this proposal, you need to describe the NLP problem that you want to implement, the domain you are interested , the rationale behind choosing this domain, and describing the key features you want to implement. You also need to attach a UML diagram of the system to describe its components and how you plan to implement them. You also need to describe the dataset you plan to use for your system. 
+Send a 1-page proposal describing the NLP problem and domain you want to implement for the project. In this proposal, you need to describe the NLP problem that you want to implement, the domain you are interested , the rationale behind choosing this domain, and describing the key features you want to implement. You also need to attach a UML diagram of the system to describe its components and how you plan to implement them. You also need to describe the dataset you plan to use for your system. Email the proposal to vijayanta.jain@maine.edu
 
 ### GitHub Repo
 
