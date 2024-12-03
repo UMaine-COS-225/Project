@@ -39,7 +39,7 @@ Following are the deliverables
 
 3. [Backend (Friday, November 15th 2024, 11:59 PM)](#backend-5-of-the-overall-course-grade)
 
-4. [Frontend (Friday, December 5th 2024, 11:59 PM)](#frontend-5-of-the-overall-course-grade)
+4. [Frontend (Friday, December 6th 2024, 11:59 PM)](#frontend-5-of-the-overall-course-grade)
 
 5. [Final Presentation (Tuesday December 10th and Thursday 12th 2024 during class period)](#final-presentation-5-of-the-overall-course-grade)
 
